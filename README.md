@@ -16,3 +16,22 @@ An end-to-end supply chain analytics project analyzing **200,000+ inventory, shi
 - **Data Storytelling:** Strategic recommendations for supply chain optimization
 
 ## 📁 Project Structure
+
+## 🔍 Key Insights
+- **Total Suppliers:** 500
+- **Total Products:** 200
+- **Total Warehouses:** 10
+- **Total Records:** 200,000+ (inventory + shipments + sales)
+- **On-Time Delivery Rate:** *(Add your number)*
+- **Total Inventory Value:** *(Add your number)*
+
+## 💡 Recommendations
+1. Focus on top-performing suppliers with annual contracts
+2. Automate reordering for products below reorder level
+3. Reduce shipping costs by consolidating warehouses
+4. Implement ABC analysis for inventory prioritization
+
+
+## 👤 Author
+**Abdullah Alahidy**
+- GitHub: [@alahidyabdallah-gif](https://github.com/alahidyabdallah-gif)
